@@ -21,9 +21,11 @@ Phase-wise explanation:
   - **Line Charts** to evaluate team performance with goal splits across home and away vs total goals over the season.
   - Average **constant line** and **slicer** to view selective club data for comparison.
 ## 4. Analyze
-  - Page 1: Used for **Descriptive Analysis** based on team results and how they differed with the venue change.<br/>
+   #### Page 1
+  - **Descriptive Analysis** based on team results and how they differed with the venue change.<br/>
     E.g., Nottingham Forest have a stark contrast in home and away results, with most of their wins coming at their home ground.<br/>
     This follows the general trend across the league.
-  - Page 2: Used for **Diagnostic Analysis** based on Goals scored and conceded by the team, and their split across home and away stadiums.<br/>
+   #### Page 2
+  - **Diagnostic Analysis** based on Goals scored and conceded by the team, and their split across home and away stadiums.<br/>
     E.g.. Leicester City has scored an above-average number of goals at home, but it has not translated into wins, as they conceded around the same amount. This saw them finish in the bottom 3, resulting in relegation.
    
